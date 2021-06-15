@@ -12,3 +12,5 @@
   build together 💪.
 
   To get started, comment below with an introduction of yourself and tell us about what you do with this community.
+
+### Getting Started
