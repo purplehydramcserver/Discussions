@@ -1,4 +1,4 @@
-# Public Discussions
+# Public Forum
 
 ### About
 
