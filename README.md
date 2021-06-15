@@ -3,7 +3,7 @@
 ### About
 
 ![Purple Hydra MC](https://user-images.githubusercontent.com/85592265/122105275-97547980-cde6-11eb-87a0-ea7069379149.png)
-## 👋 Welcome!
+#### 👋 Welcome!
   We’re using Discussions as a place to connect with other members of our community, and is an alternative stream of our website's forum used for suggestions, bug-reporting, and other examples of associations. We hope that you:
   * Ask questions you’re wondering about.
   * Share ideas for improving the PHMC Network.
